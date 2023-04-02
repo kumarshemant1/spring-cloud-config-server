@@ -1,2 +1,2 @@
-# spring-cloud-config-server
-Spring Cloud Config Server - Centralized place for all configuration properties used by all microservices.
+# spring-cloud-config-server-resource
+Spring Cloud Config Server Resource - Centralized place for all configuration properties used by all microservices.
